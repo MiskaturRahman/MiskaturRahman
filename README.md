@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <h4>🌱 I'm currently learning...</h4>
 <p >
- <img src="https://img.shields.io/badge/python%20-%23c21325.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/NoSQL%20-%23339933.svg?&style=for-the-badge&logo=NoSQL&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/typescript-%230077B5.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp<img src="https://img.shields.io/badge/django%20-%23e34f26.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/react_native%20-%23F7DF1E.svg?&style=for-the-badge&logo=react_native&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/python%20-%23c21325.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Flutter%20-%23339933.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/typescript-%230077B5.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp<img src="https://img.shields.io/badge/django%20-%23e34f26.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/react_native%20-%23F7DF1E.svg?&style=for-the-badge&logo=react_native&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
