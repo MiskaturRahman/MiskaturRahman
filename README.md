@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there, 👋 I'm Miskatur 🧛‍♂️ </h1>
+<h1 align='center'> Hi there 👋, I'm Miskatur 🥷 </h1>
 
 <p align='center'>
  From Bangladesh, A serious <b>Web Developer</b> 
@@ -57,13 +57,13 @@ Here are some ideas to get you started:
 
 <h4>🌱 I'm currently learning...</h4>
 <p >
- <img src="https://img.shields.io/badge/python%20-%23c21325.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Flutter%20-%23339933.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/typescript-%230077B5.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp<img src="https://img.shields.io/badge/django%20-%23e34f26.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/react_native%20-%23F7DF1E.svg?&style=for-the-badge&logo=react_native&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/java%20-%230769ad.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/python%20-%23c21325.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/NoSQL%20-%23339933.svg?&style=for-the-badge&logo=NoSQL&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/typescript-%230077B5.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp<img src="https://img.shields.io/badge/django%20-%23e34f26.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/react_native%20-%23F7DF1E.svg?&style=for-the-badge&logo=react_native&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/dart%20-%2361DAFB.svg?&style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 
 <p align='right'>
 <h4>💬 Sometimes I like to write things here...</h4>
-  <a href="https://rahmnmiskatur.medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@rahmnmiskatur"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
