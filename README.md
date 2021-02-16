@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Miskatur 🧛‍♂️</h1>
 
 <p align='center'>
- From Bangladesh, A <b> Developer</b> 
+ A <b>Developer</b> from Bangladesh.
 </p>
 
 <!-- <p align='center'>
