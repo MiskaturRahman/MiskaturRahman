@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <h4>🌱 I’m currently working with ...</h4>
 <p >
- <img src="https://img.shields.io/badge/python%20-%23c21325.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/flutter%20-%23339933.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/typescript-%230077B5.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp<img src="https://img.shields.io/badge/django%20-%23e34f26.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/react_native%20-%23F7DF1E.svg?&style=for-the-badge&logo=react_native&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/dart%20-%2361DAFB.svg?&style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/python%20-%23c21325.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL-%230077B5.svg?&style=for-the-badge&logo=SQL&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp<img src="https://img.shields.io/badge/django%20-%23e34f26.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/jupyter_notebook%20-%23F7DF1E.svg?&style=for-the-badge&logo=jupyter_notebook&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
