@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 
 <h4>🌱 I’m currently working with ...</h4>
 <p >
- <img src="https://img.shields.io/badge/python%20-%23c21325.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React_Native%20-%23339933.svg?&style=for-the-badge&logo=React_Native&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL-%230077B5.svg?&style=for-the-badge&logo=SQL&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp<img src="https://img.shields.io/badge/django%20-%23e34f26.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/R%20-%23F7DF1E.svg?&style=for-the-badge&logo=R&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/python%20-%23c21325.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React_Native%20-%23339933.svg?&style=for-the-badge&logo=React_Native&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL-%230077B5.svg?&style=for-the-badge&logo=SQL&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/R%20-%23F7DF1E.svg?&style=for-the-badge&logo=R&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
