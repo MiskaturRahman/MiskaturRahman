@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miskatur Rahman</h1>
-<h3 align="center">React Native developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">React Native developer from Bangladesh 🇧🇩 </h3>
 
-- 🔭 I’m currently working on A MOBILE APP for a**Medical Service StartUp**
+- 🔭 I’m currently working on A MOBILE APP for a **Medical Service StartUp**
 
 - 🌱 I’m currently learning **Data Analytics**
 
