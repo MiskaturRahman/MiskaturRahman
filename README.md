@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miskatur Rahman</h1>
 <h3 align="center">React Native developer from Bangladesh 🇧🇩</h3>
 
-- 🔭 I’m currently working on **Medical Service StartUp**
+- 🔭 I’m currently working on A MOBILE APP for a**Medical Service StartUp**
 
 - 🌱 I’m currently learning **Data Analytics**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mdrahmanmiskatur@gmail.com**
 
-- 📄 MY RESUME [short.gy/BEBl4K](short.gy/BEBl4K)
+- 📄 **MY RESUME** [short.gy/BEBl4K](short.gy/BEBl4K)
 
 - ⚡ Fun fact **I can't eat until the error solves!**
 
