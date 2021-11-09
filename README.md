@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mdrahmanmiskatur@gmail.com**
 
-- 📄 **MY RESUME** [short.gy/BEBl4K](short.gy/BEBl4K)
+- 📄 **MY RESUME** https://shorturl.at/hsKU7
 
 - ⚡ Fun fact **I can't eat until the error solves!**
 
