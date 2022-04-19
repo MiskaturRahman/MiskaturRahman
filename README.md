@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miskatur Rahman</h1>
-<h3 align="center">React Native developer from Bangladesh 🇧🇩 </h3>
+<h3 align="center">JavaScript developer from Bangladesh 🇧🇩 </h3>
 
 - 🔭 I’m currently working on A MOBILE APP for a **Medical Service StartUp**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mdrahmanmiskatur@gmail.com**
 
-- 📄 **MY RESUME** https://shorturl.at/hsKU7
+- 📄 **Phone & WhatsAPP** +60143733283
 
 - ⚡ Fun fact **I can't eat until the error solves!**
 
