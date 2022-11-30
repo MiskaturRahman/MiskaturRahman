@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miskatur Rahman</h1>
 <h3 align="center">Data Analyst from Bangladesh 🇧🇩 </h3>
-<h3 align="center">Working as Business Technology Accelerator in PETRONAS, MALAYSIA </h3>
 
 
 <!-- - 🔭 I’m currently working on A MOBILE APP for a **Medical Service StartUp** -->
