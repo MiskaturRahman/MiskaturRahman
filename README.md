@@ -45,12 +45,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miskaturrahman&show_icons=true&theme=dracula&layout=compact" />
-</p>
-
-<br/><br/><br/>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=miskaturrahman&show_icons=true&theme=cobalt" />
